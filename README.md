@@ -1,8 +1,13 @@
-This is a universal programmable logic controller.
-Features Include:
-2x Thermistor Input (10Ks)
-4x Digital Input (Dry Contact)
-5x Digital Output (Dry Contact)
-1x Analog Output (0-10VDC)
-WiFi
-Bluetooth
+# Universal Programmable Logic Controller (PLC)
+
+A versatile, Wi-Fi-enabled programmable logic controller designed for HVAC, building automation, and general-purpose control applications.
+
+## Features
+
+- **2x Thermistor Inputs** – 10KΩ thermistors
+- **4x Digital Inputs** – Dry contact
+- **5x Digital Outputs** – Dry contact
+- **1x Analog Output** – 0–10 VDC
+- **Wi-Fi Connectivity**
+- **Bluetooth Connectivity**
+
